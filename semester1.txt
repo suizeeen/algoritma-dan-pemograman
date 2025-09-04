@@ -1,0 +1,14 @@
+ python
+1 - psuedocode dan flowchart
+2 - konsep dasar : input, output, variable, dan tipe data
+3 - operator perbandingan, assignment, logika, dan aritmatika
+4 - percabangan
+5 - perulangan
+6 - list dan dictionary
+7 - fungsi
+8 - list dan dictionary lanjutan
+9 - fungsi lanjutan dan modularisasi
+10 - fungsi kwarg dan args
+11 - OOP
+12 - file handling + OOP
+13 - exception handling dan file handling
